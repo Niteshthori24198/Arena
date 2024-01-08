@@ -1,0 +1,19 @@
+{
+  "name": "swiggy_magical_arena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node target/main.js",
+    "build": "npx tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "rimraf": "^5.0.5",
+    "typescript": "^5.3.3"
+  }
+}
