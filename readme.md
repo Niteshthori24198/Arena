@@ -126,7 +126,6 @@ All errors and exceptions are properly handled to ensure a smooth user experienc
 ![Alt text](image-7.png)
 
 
-
 ## Future Enhancements
 
 -   This application is designed to be easily extensible. Future enhancements could include:
